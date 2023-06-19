@@ -75,11 +75,9 @@
 .user p {
   color: #fff;
   opacity: 1;
-  margin-left: 1rem;
+  margin-left: 10px;
 }
-/* .bold {
-  font-weight: 600;
-} */
+
 .sidebar p {
   opacity: 0;
 }
